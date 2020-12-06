@@ -1,5 +1,3 @@
-README
-
 # headjitter
 
 This repository contains the data and analysis code associated with the manuscript: Head jitter enhances 3D motion perception
