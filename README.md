@@ -2,7 +2,7 @@ README
 
 # headjitter
 
-Headjitter is a repository that contains the data and analysis code associated with the manuscript: Head jitter enhances 3D motion perception
+This repository contains the data and analysis code associated with the manuscript: Head jitter enhances 3D motion perception
 
 It has been developed by Jaqueline Fulvio (jacqueline.fulvio@wisc.edu) and Bas Rokers (rokers@nyu.edu).
 
